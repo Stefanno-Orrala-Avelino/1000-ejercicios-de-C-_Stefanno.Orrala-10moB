@@ -1,1 +1,0 @@
-# 1000-ejercicios-de-C-_Stefanno.Orrala-10moB
